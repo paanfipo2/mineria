@@ -25,7 +25,7 @@ Based on the results table, we were able to reach the following key conclusions:
 | OMEPRAZOL Y RANITIDINA  | 47.37  |
 | NAFAZOLINA Y SULFACETAMIDA | 41.34 |
 
-| Command | Description |
+| MEDICATION COMBINATIONS | LIFT |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
