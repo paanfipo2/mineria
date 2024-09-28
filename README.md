@@ -18,6 +18,8 @@ Based on the results table, we were able to reach the following key conclusions:
   - Omeprazole and Ranitidine.
     
 2.	Medications with high association (Lift): Medications with a lift greater than 1 were identified, indicating the strength of the association between medications compared to being prescribed randomly. A lift greater than 1 suggests that the combination occurs more frequently than expected. For example, in the results table, we can find medication combinations with higher lift values:
+
+
 | MEDICATION COMBINATIONS | LIFT |
 | ------------- | ------------- |
 | CEFALOTINA Y CLINDAMICINA | 77.15 |
