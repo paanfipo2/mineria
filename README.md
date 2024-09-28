@@ -1,6 +1,6 @@
 # Data Mining Course
 
-##Task 3
+**Task 3**
 
 - Victor Manuel Vargas Forero
 - Paula Andrea Figueroa Polanco
